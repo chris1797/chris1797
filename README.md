@@ -1,6 +1,8 @@
 ### Hi there I'm Java Back-end developer chris!👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris1797&show_icons=true&theme=radical)
+<a href="chris-hungry.tistory.com" target="_blank"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=로고&logoColor=000000"/></a>
+
 <!--
 **chris1797/chris1797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
