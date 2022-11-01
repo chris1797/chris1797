@@ -1,6 +1,6 @@
 <div align=center>
 
-### Hi there I'm Java Back-end developer chris!👋
+### Hi there, I'm Back-end developer chris!👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris1797&show_icons=true&theme=radical)
 
