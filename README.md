@@ -2,8 +2,6 @@
 
 ### Hi there, I'm Back-end developer chris!👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris1797&show_icons=true&theme=radical)
-
 <!--
 **chris1797/chris1797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
