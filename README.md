@@ -1,6 +1,6 @@
 <div align=center>
 
-### Hi there, I'm Back-end developer chris!👋
+### Hi there, I'm Back-end developer chris! 👋
 
 <!--
 **chris1797/chris1797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
