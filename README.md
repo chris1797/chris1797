@@ -1,10 +1,7 @@
 <div align=center>
-
 ### Hi there, I'm Back-end developer chris! 👋
-
 </div>
 
-<br>
 <br>
 
 <!-- 기술 스택 -->
