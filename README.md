@@ -6,7 +6,7 @@
 
 <br>
 
-<!-- 기술 스택 -->
+<!-- 기술 스택 
 
 <div><h2> Stack </h2></div>
 
@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black">
 </div>
 
+-->
 
  <!--
  방문자수
