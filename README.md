@@ -1,6 +1,6 @@
-<div align=center>
+<div>
  
-### Hi there, I'm Back-end developer chris! 👋
+## Hi there, I'm Back-end developer chris! 👋
  
 </div>
 
