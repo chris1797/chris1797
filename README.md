@@ -1,6 +1,3 @@
-<div align=center>
-### Hi there, I'm Back-end developer chris! 👋
-</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris1797&theme=tokyonight&show_icons=true)
 <!-- <div>
  <a href="https://chris-hungry.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/></a>
