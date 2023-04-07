@@ -5,11 +5,11 @@
 <!-- <div>
  <a href="https://chris-hungry.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/></a>
 </div> -->
-<!-- <div align=center>
+<div align=center>
 
 ### Hi there, I'm Back-end developer chris! 👋
 
-</div> -->
+</div>
 
 <br>
 
