@@ -1,6 +1,6 @@
 
  
-## Hi there, I'm Back-end developer Chris! 👋
+## Hi there, I'm back-end developer Chris! 👋
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris1797&theme=tokyonight&show_icons=true)
