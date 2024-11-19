@@ -2,7 +2,7 @@
  
 <!-- ## Hi there, I'm back-end developer Chris! 👋 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris1797&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris1797)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris1797&theme=tokyonight&show_icons=true)  -->
